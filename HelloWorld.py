@@ -8,5 +8,6 @@ for x in range(10):
 	turtle.backward(10)
 	turtle.fd(25)
 
+print("lol")
 
 turtle.exitonclick()
